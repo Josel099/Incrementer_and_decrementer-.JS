@@ -1,0 +1,21 @@
+#root{
+
+  
+    font-weight: bolder;
+    width: 10%;
+    max-height: max-content;
+    height: 50px;
+
+
+    
+}
+
+.btn1{
+    background-color: blueviolet;
+    text-decoration-color: black;
+    height: 70px;
+    width: 70px;
+    font-size: 30px;
+    border-radius: 40%;
+  
+}
